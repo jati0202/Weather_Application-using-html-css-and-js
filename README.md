@@ -14,11 +14,11 @@ Once you sign up using your email, the API key (APPID) will be sent to you in a 
 * Step 3 – After clicking on the API form menu, you can see there are lots of APIs but on the API Main page starting you can select (Current weather data) and below there is a box( API information box). So click on API Doc.
 <br>
 
-![This is an image](/Weather-Application-using-HTML-CSS-and-Javascript/images/Screenshot%20(240).png)
+![This is an image](/images/Screenshot%20(240).png)
 * Step 4 – After clicking on this API you get a new page so scroll a little bit and you see there is an API document and code that how we connect this API you see the API keyword (in the below image you can see it easily) so click on API key and you get your API key.
 <br>
 
-![This is an image](/Weather-Application-using-HTML-CSS-and-Javascript/images/Screenshot%20(241).png)
+![This is an image](/images/Screenshot%20(241).png)
 
 That’s all, now could successfully build a Weather App in HTML CSS & JavaScript.
 
